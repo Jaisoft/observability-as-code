@@ -1,0 +1,7 @@
+29-09-2021 22:09:47.805, 192.168.0.106 ,main, INFO , ServingWebContentDemoApplication.logStarting, Starting ServingWebContentDemoApplication using Java 11.0.12 on Jaimes-MacBook-Pro.local with PID 1000 (/Users/jaisoft/Documents/SpringBootProjects/serving-web-content-demo/target/classes started by jaisoft in /Users/jaisoft/Documents/SpringBootProjects/serving-web-content-demo)
+29-09-2021 22:09:47.808, 192.168.0.106 ,main, DEBUG, ServingWebContentDemoApplication.logStarting, Running with Spring Boot v2.4.7, Spring v5.3.8
+29-09-2021 22:09:47.808, 192.168.0.106 ,main, INFO , ServingWebContentDemoApplication.logStartupProfileInfo, No active profile set, falling back to default profiles: default
+29-09-2021 22:09:48.783, 192.168.0.106 ,main, INFO , ServingWebContentDemoApplication.logStarted, Started ServingWebContentDemoApplication in 6.374 seconds (JVM running for 6.724)
+29-09-2021 22:12:33.093, 192.168.0.106 ,http-nio-8080-exec-1, TRACE, HomeController.home, 127.0.0.1, Home page accessed.
+29-09-2021 22:16:10.081, 192.168.0.106 ,http-nio-8080-exec-6, TRACE, GreetingController.greeting, 127.0.0.1, Greeting page accessed.
+29-09-2021 22:17:33.348, 192.168.0.106 ,http-nio-8080-exec-1, ERROR, TestErrorController.testerror, 127.0.0.1, Test Error page accessed.
