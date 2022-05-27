@@ -1,0 +1,64 @@
+22-08-2021 22:01:22.923 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 13.0.1 on Vulcan with PID 18556 (D:\Git Projects\ELK Logs Monitoring\ELK\target\classes started by ApoorvTyagi in D:\Git Projects\ELK Logs Monitoring\ELK)
+22-08-2021 22:01:22.927 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+22-08-2021 22:01:25.233 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 2.868 seconds (JVM running for 11.729)
+22-08-2021 22:02:50.498 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-08-2021 22:02:50.501 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Sun Aug 22 22:02:50 IST 2021
+22-08-2021 22:02:56.001 [http-nio-8080-exec-4] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+22-08-2021 22:02:56.002 [http-nio-8080-exec-4] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+22-08-2021 22:06:53.971 [http-nio-8080-exec-10] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-08-2021 22:06:53.972 [http-nio-8080-exec-10] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Sun Aug 22 22:06:53 IST 2021
+22-08-2021 22:06:55.424 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+22-08-2021 22:06:55.425 [http-nio-8080-exec-1] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+22-08-2021 22:37:54.599 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 13.0.1 on Vulcan with PID 19788 (D:\Git Projects\ELK Logs Monitoring\ELK\target\classes started by ApoorvTyagi in D:\Git Projects\ELK Logs Monitoring\ELK)
+22-08-2021 22:37:54.602 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+22-08-2021 22:37:57.212 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 3.261 seconds (JVM running for 10.333)
+22-08-2021 22:38:03.738 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+22-08-2021 22:38:03.741 [http-nio-8080-exec-2] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+28-08-2021 20:31:11.103 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 13.0.1 on Vulcan with PID 17332 (D:\Git Projects\ELK Logs Monitoring\ELK\target\classes started by ApoorvTyagi in D:\Git Projects\ELK Logs Monitoring\ELK)
+28-08-2021 20:31:11.106 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+28-08-2021 20:31:12.770 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 2.229 seconds (JVM running for 2.573)
+28-08-2021 20:31:18.991 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+28-08-2021 20:31:18.993 [http-nio-8080-exec-1] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+28-08-2021 20:31:18.998 [http-nio-8080-exec-1] ERROR com.demo.ELK.services.ELKService.getAllFoodDetails - Error occurred in reading JSON file
+28-08-2021 20:33:16.244 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 13.0.1 on Vulcan with PID 19592 (D:\Git Projects\ELK Logs Monitoring\ELK\target\classes started by ApoorvTyagi in D:\Git Projects\ELK Logs Monitoring\ELK)
+28-08-2021 20:33:16.246 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+28-08-2021 20:33:17.596 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 1.669 seconds (JVM running for 1.941)
+28-08-2021 20:33:24.598 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+28-08-2021 20:33:24.600 [http-nio-8080-exec-1] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+28-08-2021 20:34:29.997 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 13.0.1 on Vulcan with PID 10512 (D:\Git Projects\ELK Logs Monitoring\ELK\target\classes started by ApoorvTyagi in D:\Git Projects\ELK Logs Monitoring\ELK)
+28-08-2021 20:34:29.999 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+28-08-2021 20:34:31.418 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 1.784 seconds (JVM running for 2.107)
+28-08-2021 20:34:34.319 [http-nio-8080-exec-5] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+28-08-2021 20:34:34.320 [http-nio-8080-exec-5] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+28-08-2021 20:36:29.351 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 13.0.1 on Vulcan with PID 20776 (D:\Git Projects\ELK Logs Monitoring\ELK\target\classes started by ApoorvTyagi in D:\Git Projects\ELK Logs Monitoring\ELK)
+28-08-2021 20:36:29.353 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+28-08-2021 20:36:30.725 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 1.703 seconds (JVM running for 1.969)
+28-08-2021 20:36:35.845 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+28-08-2021 20:36:35.847 [http-nio-8080-exec-2] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+26-05-2022 13:14:12.777 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on Jaimes-MacBook-Pro.local with PID 9021 (/Users/jaisoft/Documents/observability-as-code/logging/Spring-ELK/target/classes started by jaisoft in /Users/jaisoft/Documents/observability-as-code/logging/Spring-ELK)
+26-05-2022 13:14:12.780 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+26-05-2022 13:14:41.486 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on Jaimes-MacBook-Pro.local with PID 9083 (/Users/jaisoft/Documents/observability-as-code/logging/Spring-ELK/target/classes started by jaisoft in /Users/jaisoft/Documents/observability-as-code/logging/Spring-ELK)
+26-05-2022 13:14:41.488 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+26-05-2022 13:14:42.523 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 1.346 seconds (JVM running for 1.585)
+26-05-2022 13:14:51.045 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:51.048 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:51 CEST 2022
+26-05-2022 13:14:52.136 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:52.136 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:52 CEST 2022
+26-05-2022 13:14:52.713 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:52.714 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:52 CEST 2022
+26-05-2022 13:14:52.912 [http-nio-8080-exec-4] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:52.913 [http-nio-8080-exec-4] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:52 CEST 2022
+26-05-2022 13:14:53.096 [http-nio-8080-exec-5] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:53.096 [http-nio-8080-exec-5] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:53 CEST 2022
+26-05-2022 13:14:53.296 [http-nio-8080-exec-6] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:53.297 [http-nio-8080-exec-6] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:53 CEST 2022
+26-05-2022 13:14:53.482 [http-nio-8080-exec-7] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:53.482 [http-nio-8080-exec-7] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:53 CEST 2022
+26-05-2022 13:14:53.666 [http-nio-8080-exec-8] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:53.666 [http-nio-8080-exec-8] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:53 CEST 2022
+26-05-2022 13:14:53.851 [http-nio-8080-exec-9] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:53.851 [http-nio-8080-exec-9] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:53 CEST 2022
+26-05-2022 13:14:54.053 [http-nio-8080-exec-10] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:54.053 [http-nio-8080-exec-10] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:54 CEST 2022
+26-05-2022 13:14:54.235 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+26-05-2022 13:14:54.236 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu May 26 13:14:54 CEST 2022
